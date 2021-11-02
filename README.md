@@ -1,6 +1,8 @@
 - 👋 Olá, eu sou @AlexandreOsovski
+- 📖 Sou estudante de Engenharia de Software
 - 👀 Sou interessado em programação e inteligência artificial
 - 🌱 Atualmente estou aprendendo as técnologias do frontend e backend
+
 
 <!---
 AlexandreOsovski/AlexandreOsovski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
