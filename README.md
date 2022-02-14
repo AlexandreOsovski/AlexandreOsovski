@@ -1,7 +1,7 @@
 - 👋 Olá, eu sou @AlexandreOsovski
 - 📖 Sou estudante de Engenharia de Software
 - 👀 Sou interessado em programação e inteligência artificial
-- 🌱 Atualmente estou aprendendo as técnologias do frontend e backend
+- 🌱 Atualmente estou aprendendo as técnologias do front-end e back-end
 
 
 <!---
