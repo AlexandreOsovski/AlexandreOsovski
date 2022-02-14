@@ -5,12 +5,12 @@
 
 <div align="center">
   <a href="https://github.com/AlexandreOsovski">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreOsovski&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreOsovski&layout=compact&langs_count=7&theme=great-gatsby"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AlexandreOsovski&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreOsovski&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
  
 
-<div style="display: inline_block"><br>
+<div style="display: flex" ><br>
  <img height="50" width="60" alt="Ale-HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"  />
  <img height="50" width="60" alt="Ale-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
  <img height="40" width="50" alt="Ale-Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
