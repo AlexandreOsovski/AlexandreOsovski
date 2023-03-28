@@ -13,7 +13,7 @@
  <img height="40" width="50" alt="Ale-Javascript" target="_blank"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
  <img height="50" width="60" alt="Ale-PHP" target="_blank"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
  <img height="50" width="60" alt="Ale-Java" target="_blank"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
- <img height="45" width="55" alt="Ale-Python" target="_blank"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+<!--  <img height="45" width="55" alt="Ale-Python" target="_blank"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/> -->
  <img height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div><br>
 
