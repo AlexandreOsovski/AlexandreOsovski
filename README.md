@@ -1,4 +1,4 @@
-<h2>I have 2 years in the marketplace, working with HTML, CSS, ES6+, PHP7+, SQL (MySQL/MariaDB) and Frameworks such as Bootstrap, JQuery, Laravel and now Ionic/Angular.</h2>
+<p>I have 2 years in the marketplace, working with HTML, CSS, ES6+, PHP7+, SQL (MySQL/MariaDB) and Frameworks such as Bootstrap, JQuery, Laravel and now Ionic/Angular.</p>
 
 <div align="center">
   <a href="https://github.com/AlexandreOsovski">
