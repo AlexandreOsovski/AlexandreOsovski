@@ -1,7 +1,4 @@
-- 👋 Olá, eu sou @AlexandreOsovski
-- 📖 Sou estudante de Engenharia de Software
-- 👀 Sou interessado em inteligência artificial
-- 🌱 Atualmente estou aprendendo as tecnologias do front-end e back-end
+<h2>I have 2 years in the marketplace, working with HTML, CSS, ES6+, PHP7+, SQL (MySQL/MariaDB) and Frameworks such as Bootstrap, JQuery, Laravel and now Ionic/Angular.</h2>
 
 <div align="center">
   <a href="https://github.com/AlexandreOsovski">
