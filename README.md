@@ -1,4 +1,3 @@
-<p>I have 4 years in the marketplace, crypto exchange, internet banking, working with HTML, CSS, JS, PHP 7+, JAVA with Springboot, SQL (MySQL/MariaDB) and Frameworks such as Bootstrap, JQuery, Laravel, Ionic/Angular and React.</p>
 
 <div align="center">
   <a href="https://github.com/AlexandreOsovski">
