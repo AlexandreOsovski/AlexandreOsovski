@@ -1,11 +1,3 @@
-
-<div align="center">
-  <a href="https://github.com/AlexandreOsovski">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=AlexandreOsovski&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreOsovski&layout=compact&langs_count=7&theme=great-gatsby"/>
-</div>
- 
-
 <div style="display: inline-block" ><br>
  <img height="50" width="60" alt="Ale-HTML" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"  />
  <img height="50" width="60" alt="Ale-CSS" target="_blank"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
